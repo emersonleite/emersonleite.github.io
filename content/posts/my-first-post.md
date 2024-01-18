@@ -9,3 +9,11 @@ draft = false
 This is **bold** text, and this is _emphasized_ text.
 
 Visit the [Hugo](https://gohugo.io) website!
+
+```golang
+
+func main(){
+  fmt.Println("ola")
+}
+
+```
