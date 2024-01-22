@@ -1,4 +1,8 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'pt-br'
+title = 'emerson'
 theme = 'ananke'
+DefaultContentLanguage = "pt-br"
+
+[params]
+  site_logo = "Mickey_in_Plane_Crazy.jpg"
